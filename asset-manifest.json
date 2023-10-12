@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "./static/css/main.5f5b6b3d.css",
+    "main.js": "./static/js/main.f8ac9af1.js",
+    "static/media/allahAkbar.mp3": "./static/media/allahAkbar.0752308cfc610a281844.mp3",
+    "static/media/me.png": "./static/media/me.c57da6e26febd0a390f3.png",
+    "static/media/mosque_4358837.png": "./static/media/mosque_4358837.b87100936b3d1326d470.png",
+    "static/media/praying.png": "./static/media/praying.a424a3a996f2df6fc1e9.png",
+    "static/media/prayer.jpg": "./static/media/prayer.ca509b590b1ac58056cb.jpg",
+    "static/media/islam.png": "./static/media/islam.eb70a89d4633923e84a9.png",
+    "index.html": "./index.html",
+    "main.5f5b6b3d.css.map": "./static/css/main.5f5b6b3d.css.map",
+    "main.f8ac9af1.js.map": "./static/js/main.f8ac9af1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f5b6b3d.css",
+    "static/js/main.f8ac9af1.js"
+  ]
+}
